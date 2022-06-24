@@ -5,7 +5,7 @@ function EmployeeCard({ className, subTitle,title}) {
   const addTitle = title;
   const addSubtitle = subTitle;
   return (
-    <div className={`flex flex-col p-5 h-full w-full text-center items-center space-y-4  rounded-xl border-x-2 border-y-2 md:shadow-xl shadow-md ${addClassName}`}>
+    <div className={`flex flex-col p-5 h-full w-full text-center items-center space-y-4  rounded-xl border-x-2 border-y-2 md:shadow-lg shadow-md ${addClassName}`}>
       <div className="rounded-full w-20 h-20 bg-slate-400">
         <img></img>
       </div>

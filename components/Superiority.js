@@ -6,22 +6,22 @@ function Superiority() {
     {
       judul: "Freelancers",
       subTitle: "Accounting Software For Frelancers",
-      class: "border-x-purple-300 border-y-purple-100 shadow-purple-100",
+      class: "border-x-purple-300 border-y-purple-100 shadow-purple-100 md:shadow-purple-100",
     },
     {
       judul: "Self-Employed",
       subTitle: "Accounting Software For Self-Employed",
-      class: "border-x-pink-300 border-y-pink-100 shadow-pink-100",
+      class: "border-x-pink-300 border-y-pink-100 shadow-pink-100 md:shadow-pink-100",
     },
     {
       judul: "Employed",
       subTitle: "Accounting Software For Employed",
-      class: "border-x-yellow-300 border-y-yellow-100 shadow-yellow-100",
+      class: "border-x-yellow-300 border-y-yellow-100 shadow-yellow-100 md:shadow-yellow-100",
     },
     {
       judul: "Contractors",
       subTitle: "Accounting Software For Contractors",
-      class: "border-x-cyan-300 border-y-cyan-100 shadow-cyan-100",
+      class: "border-x-cyan-300 border-y-cyan-100 shadow-cyan-100 md:shadow-cyan-100",
     },
   ];
   return (
